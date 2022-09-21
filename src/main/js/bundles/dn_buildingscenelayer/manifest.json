@@ -1,6 +1,6 @@
 {
     "name": "dn_buildingscenelayer",
-    "version": "4.12.5-SNAPSHOT",
+    "version": "1.0.0-SNAPSHOT",
     "title": "Building Scene Layer",
     "description": "Add Esri building scene layer",
     "vendor": "con terra GmbH",
