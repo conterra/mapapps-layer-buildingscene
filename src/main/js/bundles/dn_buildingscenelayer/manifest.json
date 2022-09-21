@@ -4,6 +4,7 @@
     "title": "Building Scene Layer",
     "description": "Add Esri building scene layer",
     "vendor": "con terra GmbH",
+    "productName": "devnet-mapapps-layer-buildingscene",
     "startLevel": 39,
     "components": [
         {
