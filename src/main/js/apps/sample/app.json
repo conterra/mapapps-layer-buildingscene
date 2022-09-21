@@ -25,7 +25,7 @@
             "search-ui",
             "locator-store",
             "toc",
-            "sample_helloworld"
+            "dn_buildingscenelayer"
         ]
     },
     "bundles": {
@@ -56,16 +56,22 @@
                     }
                 ],
                 "map": {
-                    "layers": []
+                    "layers": [
+                        {
+                            "id": "test",
+                            "type": "AGS_BUILDING",
+                            "url": "https://tiles.arcgis.com/tiles/V6ZHFr6zdgNZuVG0/arcgis/rest/services/Esri_Admin_Building/SceneServer"
+                        }
+                    ],
+                    "ground": "world-elevation"
                 },
                 "view": {
-                    "viewmode": "2D",
+                    "viewmode": "3D",
                     "center": {
                         "x": 774853,
                         "y": 6610677,
                         "spatialReference": 3857
-                    },
-                    "scale": 140000
+                    }
                 }
             }
         },

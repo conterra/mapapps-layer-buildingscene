@@ -13,8 +13,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-module.exports = {
-    bundleName: "Hallo Welt",
-    bundleDescription: "Das Modul gibt Hallo aus.",
-    hello: "Hallo Welt"
-};
+import BuildingSceneLayer from "esri/layers/BuildingSceneLayer";
+
+class LayerTypeFactory {
+    create({ url }) {
+        return {
+            instance: new BuildingSceneLayer({ url: url })
+        };
+    }
+}
+
+export default LayerTypeFactory;

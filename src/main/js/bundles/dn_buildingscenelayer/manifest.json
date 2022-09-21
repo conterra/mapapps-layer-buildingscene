@@ -1,0 +1,17 @@
+{
+    "name": "dn_buildingscenelayer",
+    "version": "4.12.5-SNAPSHOT",
+    "title": "Building Scene Layer",
+    "description": "Add Esri building scene layer",
+    "vendor": "con terra GmbH",
+    "startLevel": 39,
+    "components": [
+        {
+            "name": "LayerTypeFactory",
+            "provides": "map-config-api.LayerTypeFactory",
+            "properties": {
+                "layerType": "AGS_BUILDING"
+            }
+        }
+    ]
+}
