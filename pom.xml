@@ -21,7 +21,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.conterra.devnet</groupId>
     <artifactId>mapapps-layer-buildingscene</artifactId>
-    <version>4.13.3-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <repositories>
         <repository>
@@ -507,10 +507,9 @@
         </plugins>
     </build>
     <scm>
-        <connection>scm:git:https://github.com/conterra/mapapps-remote-project-blueprint.git</connection>
-        <developerConnection>scm:git:https://github.com/conterra/mapapps-remote-project-blueprint.git
-        </developerConnection>
-        <url>https://github.com/conterra/mapapps-remote-project-blueprint</url>
+        <connection>scm:git:https://github.com/conterra/mapapps-layer-buildingscene.git</connection>
+        <developerConnection>scm:git:https://github.com/conterra/mapapps-layer-buildingscene.git</developerConnection>
+        <url>https://github.com/conterra/mapapps-layer-buildingscene</url>
         <tag>HEAD</tag>
     </scm>
     <distributionManagement>
