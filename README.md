@@ -4,7 +4,7 @@
 
 This bundle adds the Esri layer type BuildingSceneLayer with map.apps layer type `AGS_BUILDING`.
 
-![Screenshot App](https://github.com/conterra/mapapps-charting/blob/master/screenshot.JPG)
+![Screenshot App](https://github.com/conterra/mapapps-layer-buildingscene/blob/master/screenshot.JPG)
 
 ## Sample App
 https://demos.conterra.de/mapapps/resources/apps/downloads_buildingscenelayer/index.html?lang=de
