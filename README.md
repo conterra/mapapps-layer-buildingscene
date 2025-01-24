@@ -1,5 +1,4 @@
-[![devnet-bundle-snapshot](https://github.com/conterra/mapapps-layer-buildingscene/actions/workflows/devnet-bundle-snapshot.yml/badge.svg)](https://github.com/conterra/mapapps-layer-buildingscene/actions/workflows/devnet-bundle-snapshot.yml)
-![Static Badge](https://img.shields.io/badge/tested_for_map.apps-4.17.0-%20?labelColor=%233E464F&color=%232FC050)
+⚠️ This bundle is no longer in active development. BuildingSceneLayers are supported by map.apps as of version 4.19.0.
 # Buildingscene Layer
 
 This bundle adds the Esri layer type BuildingSceneLayer with map.apps layer type `AGS_BUILDING`.
